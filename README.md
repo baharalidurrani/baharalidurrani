@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 I’m currently working on: Node | React | Typescript | JavaScript
+💻 I’m currently working on: Node | React | Typescript | JavaScript
 
 👯 I’m looking to collaborate on interesting Projects
 
