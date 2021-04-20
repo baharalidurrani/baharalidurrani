@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 💬 Ask me about latest Technology
 
-😄 Pronoun: durrani
-
 ⚡ Fun fact: Dove into technology!
 
 📫 How to reach me: baharalidurrani@gmail.com
