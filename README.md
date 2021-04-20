@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: Dove into technology!
 
 
-## Contact
+## Contact 🤝
 - 📫 E-mail to baharalidurrani@gmail.com
 - 📄 Download Indeed [Résumé](https://my.indeed.com/p/bahara-vl69hbd)
 - 🔗 Connect using [LinkedIn](https://linkedin.com/in/BaharAliDurrani)
