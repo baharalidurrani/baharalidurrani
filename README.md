@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 💻 I love working with Node | React | Typescript | JavaScript
 
