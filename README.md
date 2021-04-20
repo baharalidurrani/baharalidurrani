@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: Dove into technology!
 
-📫 How to reach me: baharalidurrani@gmail.com
+
+## Contact
+- 🔗 Connect using [LinkedIn](https://linkedin.com/in/BaharAliDurrani)
+- 🗳 UpVote at [StackOverflow](https://stackoverflow.com/users/9486457)
+- 🌏 Visit Website [BaharAliDurrani.me](https://BaharAliDurrani.me)
+- 📫 E-mail to baharalidurrani@gmail.com
