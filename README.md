@@ -12,6 +12,6 @@
 ## Contact 🤝
 - 📫 E-mail to baharalidurrani@gmail.com
 - 📄 Download Indeed [Résumé](https://my.indeed.com/p/bahara-vl69hbd)
-- 🔗 Connect using [LinkedIn](https://linkedin.com/in/BaharAliDurrani)
+- 🔗 Connect via [LinkedIn](https://linkedin.com/in/BaharAliDurrani)
 - 🗳 UpVote at [StackOverflow](https://stackoverflow.com/users/9486457)
 - 🌏 Visit Website [BaharAliDurrani.me](https://BaharAliDurrani.me)
